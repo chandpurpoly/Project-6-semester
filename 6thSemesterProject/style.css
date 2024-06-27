@@ -1,0 +1,48 @@
+	
+	#myid{
+		font-size: 50px;
+		color: blue;
+	}
+	.myclass{
+		
+	}
+	
+	#container{
+		
+		margin-left: 200px;
+		margin-right: 200px;
+	}
+	
+	#coverImage{
+		background: url("coverImage.jpg") no-repeat;
+		background-size: 100%;
+		width: 100%;
+		height: 200px;
+		
+		
+	}
+	
+	#cdpi{
+		text-align:center;
+		color: white;
+		font-size: 30px;
+		font-weight: bold;
+		
+	}
+	#logo{
+		padding:30px 10px 10px 20px;
+	}
+	nav{	
+	}
+	nav a{
+		background-color: white;
+		padding:10px;
+		border-right: 1px solid silver;
+	}
+	nav a:hover{
+		background-color: lightblue;
+	}
+	
+	#navbar{
+		height: 25px;
+	}
